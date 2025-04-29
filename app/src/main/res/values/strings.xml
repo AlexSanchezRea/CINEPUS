@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CINEPLUS</string>
+    <string name="movie_poster">Póster de la película</string>
+    <string name="error_loading_movies">Error al cargar las películas</string>
+    <string name="error_connection">Error de conexión</string>
+    <string name="loading">Cargando...</string>
+</resources>
