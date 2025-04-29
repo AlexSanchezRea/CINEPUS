@@ -16,6 +16,9 @@
         android:theme="@style/Theme.CINEPLUS"
         tools:targetApi="31">
         <activity
+            android:name=".BillActivity"
+            android:exported="false" />
+        <activity
             android:name=".menuActivity"
             android:exported="false" />
         <activity
